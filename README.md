@@ -1,5 +1,9 @@
 # Kapad
 This is a macropad with 16 keys, 16 LEDs, and an OLED display.
+# Demo
+This has now been built! Go watch the demo over at [YouTube](https://youtu.be/MbUcHhBB-c4)!
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a7963528-0eb0-4bc1-b3e7-d4c59279bb3a" />
+
 # CAD
 Two printed parts, made in Fusion360.
 
